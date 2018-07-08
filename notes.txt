@@ -1,0 +1,4 @@
+## CHAPTER 6
+* redo 6.2 & 6.4 on session restart
+* rm /bin/{stty,echo} these are apparently equired for test suites only
+
